@@ -4,3 +4,5 @@
 or feedback@areweplural.com
 
 TODO: Forward amiplural.com to areweplural.com
+
+LICENSE: Public Domain
